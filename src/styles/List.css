@@ -1,0 +1,20 @@
+li {
+    list-style-type: circle;
+}
+
+.priority {
+    font-weight: bold;
+    font-size: 1em;
+}
+
+.high {
+    color: red;
+}
+
+.medium {
+    color: orange;
+}
+
+.low {
+    color: blue;
+}
